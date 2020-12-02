@@ -1,0 +1,175 @@
+2020-11-30.20:48:24 Main INFO Handle pID
+2020-11-30.20:48:24 Main INFO pID handled: 14284
+2020-11-30.20:48:24 Main INFO Handle Process
+2020-11-30.20:48:24 Main INFO Process handled
+2020-11-30.20:48:24 Main INFO Program stop
+2020-11-30.21:42:05 Main INFO Program start
+2020-11-30.21:42:05 Main INFO Handle pID
+2020-11-30.21:42:05 Main INFO pID handled: 14284
+2020-11-30.21:42:05 Main INFO Handle Process
+2020-11-30.21:42:05 Main INFO Process handled
+2020-11-30.21:42:05 Main INFO Program stop
+2020-11-30.21:42:46 Main INFO Program start
+2020-11-30.21:42:46 Main INFO Handle pID
+2020-11-30.21:42:46 Main INFO pID handled: 14284
+2020-11-30.21:42:46 Main INFO Handle Process
+2020-11-30.21:42:46 Main INFO Process handled
+2020-11-30.21:42:46 Main INFO Program stop
+2020-11-30.21:43:22 Main INFO Program start
+2020-11-30.21:43:22 Main INFO Handle pID
+2020-11-30.21:43:22 Main INFO pID handled: 14284
+2020-11-30.21:43:22 Main INFO Handle Process
+2020-11-30.21:43:22 Main INFO Process handled
+2020-11-30.21:43:22 Main INFO Program stop
+2020-11-30.21:43:45 Main INFO Program start
+2020-11-30.21:43:45 Main INFO Handle pID
+2020-11-30.21:43:45 Main INFO pID handled: 14284
+2020-11-30.21:43:45 Main INFO Handle Process
+2020-11-30.21:43:45 Main INFO Process handled
+2020-11-30.21:43:45 Main INFO Program stop
+2020-11-30.21:45:03 Main INFO Program start
+2020-11-30.21:45:03 Main INFO Handle pID
+2020-11-30.21:45:03 Main INFO pID handled: 5280
+2020-11-30.21:45:03 Main INFO Handle Process
+2020-11-30.21:45:03 Main INFO Process handled
+2020-11-30.21:45:03 Main INFO Program stop
+2020-11-30.21:45:24 Main INFO Program start
+2020-11-30.21:45:24 Main INFO Handle pID
+2020-11-30.21:45:24 Main INFO pID handled: 1988
+2020-11-30.21:45:24 Main INFO Handle Process
+2020-11-30.21:45:24 Main INFO Process handled
+2020-11-30.21:45:24 Main INFO Program stop
+2020-11-30.21:45:46 Main INFO Program start
+2020-11-30.21:45:46 Main INFO Handle pID
+2020-11-30.21:45:46 Main INFO pID handled: 1988
+2020-11-30.21:45:46 Main INFO Handle Process
+2020-11-30.21:45:46 Main INFO Process handled
+2020-11-30.21:45:46 Main INFO Program stop
+2020-11-30.21:45:50 Main INFO Program start
+2020-11-30.21:45:50 Main INFO Handle pID
+2020-11-30.21:45:50 Main INFO pID handled: 1988
+2020-11-30.21:45:50 Main INFO Handle Process
+2020-11-30.21:45:50 Main INFO Process handled
+2020-11-30.21:45:50 Main INFO Program stop
+2020-11-30.21:45:59 Main INFO Program start
+2020-11-30.21:45:59 Main INFO Handle pID
+2020-11-30.21:45:59 Main INFO pID handled: 1988
+2020-11-30.21:45:59 Main INFO Handle Process
+2020-11-30.21:45:59 Main INFO Process handled
+2020-11-30.21:45:59 Main INFO Program stop
+2020-11-30.21:50:19 Main INFO Program start
+2020-11-30.21:50:19 Main INFO Handle pID
+2020-11-30.21:50:19 Main INFO pID handled: 1988
+2020-11-30.21:50:19 Main INFO Handle Process
+2020-11-30.21:50:19 Main INFO Success Process handle
+2020-11-30.21:50:19 Main INFO 0
+2020-11-30.21:50:19 Main INFO Program stop
+2020-11-30.21:52:14 Main INFO Program start
+2020-11-30.21:52:14 Main INFO Handle pID
+2020-11-30.21:52:14 Main INFO pID handled: 1988
+2020-11-30.21:52:14 Main INFO Handle Process
+2020-11-30.21:52:14 Main INFO Success Process handle
+2020-11-30.21:52:14 Main INFO Offset 4294953940 = 4294967295
+2020-11-30.21:52:14 Main INFO Program stop
+2020-11-30.21:54:24 Main INFO Program start
+2020-11-30.21:54:24 Main INFO Handle pID
+2020-11-30.21:54:24 Main INFO pID handled: 1988
+2020-11-30.21:54:24 Main INFO Handle Process
+2020-11-30.21:54:24 Main INFO Success Process handle
+2020-11-30.21:54:24 Main INFO Offset 4294953940 = 4294967295
+2020-11-30.21:54:24 Main INFO Program stop
+2020-12-01.19:44:49 Main INFO Program start
+2020-12-01.19:44:49 Main INFO Handle pID
+2020-12-01.19:44:49 Main INFO pID handled: 1988
+2020-12-01.19:44:49 Main INFO Handle Process
+2020-12-01.19:44:49 Main INFO Success Process handle
+2020-12-01.19:44:49 Main INFO Offset 4294953940 = 4294967295
+2020-12-01.19:44:49 Main INFO Program stop
+2020-12-01.19:46:36 Main INFO Program start
+2020-12-01.19:46:36 Main INFO Handle pID
+2020-12-01.19:46:36 Main CRITICAL Window not found.
+2020-12-01.19:46:36 Main INFO Program stop
+2020-12-01.19:46:56 Main INFO Program start
+2020-12-01.19:46:56 Main INFO Handle pID
+2020-12-01.19:46:56 Main CRITICAL Window not found.
+2020-12-01.19:46:56 Main INFO Program stop
+2020-12-01.19:47:19 Main INFO Program start
+2020-12-01.19:47:19 Main INFO Handle pID
+2020-12-01.19:47:19 Main CRITICAL Window not found.
+2020-12-01.19:47:19 Main INFO Program stop
+2020-12-01.19:47:53 Main INFO Program start
+2020-12-01.19:47:53 Main INFO Handle pID
+2020-12-01.19:47:53 Main CRITICAL Window not found.
+2020-12-01.19:47:53 Main INFO Program stop
+2020-12-01.19:48:12 Main INFO Program start
+2020-12-01.19:48:12 Main INFO Handle pID
+2020-12-01.19:48:12 Main CRITICAL Window not found.
+2020-12-01.19:48:12 Main INFO Program stop
+2020-12-01.19:48:24 Main INFO Program start
+2020-12-01.19:48:24 Main INFO Handle pID
+2020-12-01.19:48:24 Main CRITICAL Window not found.
+2020-12-01.19:48:24 Main INFO Program stop
+2020-12-01.19:49:25 Main INFO Program start
+2020-12-01.19:49:25 Main INFO Handle pID
+2020-12-01.19:49:25 Main CRITICAL Window not found.
+2020-12-01.19:49:25 Main INFO Program stop
+2020-12-01.19:49:48 Main INFO Program start
+2020-12-01.19:49:48 Main INFO Handle pID
+2020-12-01.19:49:48 Main CRITICAL Window not found.
+2020-12-01.19:49:48 Main INFO Program stop
+2020-12-01.22:27:54 Main INFO Program start
+2020-12-01.22:27:54 Main INFO Handle pID
+2020-12-01.22:27:54 Main INFO pID handled: 1988
+2020-12-01.22:27:54 Main INFO Handle Process
+2020-12-01.22:27:54 Main INFO Success Process handle
+2020-12-01.22:27:54 Main INFO Offset 4294953940 = 4294967295
+2020-12-01.22:27:54 Main INFO Program stop
+2020-12-01.22:28:04 Main INFO Program start
+2020-12-01.22:28:04 Main INFO Handle pID
+2020-12-01.22:28:04 Main INFO pID handled: 1988
+2020-12-01.22:28:04 Main INFO Handle Process
+2020-12-01.22:28:04 Main INFO Success Process handle
+2020-12-01.22:28:04 Main INFO Offset 4294953940 = 4294967295
+2020-12-01.22:28:04 Main INFO Program stop
+2020-12-01.22:29:13 Main INFO Program start
+2020-12-01.22:29:13 Main INFO Handle pID
+2020-12-01.22:29:13 Main INFO pID handled: 4392
+2020-12-01.22:29:13 Main INFO Handle Process
+2020-12-01.22:29:13 Main INFO Success Process handle
+2020-12-01.22:29:13 Main INFO Offset 4294953940 = 0
+2020-12-01.22:29:13 Main INFO Program stop
+2020-12-01.22:30:41 Main INFO Program start
+2020-12-01.22:30:41 Main INFO Handle pID
+2020-12-01.22:30:41 Main INFO pID handled: 4392
+2020-12-01.22:30:41 Main INFO Handle Process
+2020-12-01.22:30:41 Main INFO Success Process handle
+2020-12-01.22:30:41 Main INFO Offset 4294953940 = 0
+2020-12-01.22:30:41 Main INFO Program stop
+2020-12-01.22:31:54 Main INFO Program start
+2020-12-01.22:31:54 Main INFO Handle pID
+2020-12-01.22:31:54 Main INFO pID handled: 4392
+2020-12-01.22:31:54 Main INFO Handle Process
+2020-12-01.22:31:54 Main INFO Success Process handle
+2020-12-01.22:31:54 Main INFO Offset 4294953940 = 0
+2020-12-01.22:31:54 Main INFO Program stop
+2020-12-01.22:32:14 Main INFO Program start
+2020-12-01.22:32:14 Main INFO Handle pID
+2020-12-01.22:32:14 Main INFO pID handled: 4392
+2020-12-01.22:32:14 Main INFO Handle Process
+2020-12-01.22:32:14 Main INFO Success Process handle
+2020-12-01.22:32:14 Main INFO Offset 0 = 0
+2020-12-01.22:32:14 Main INFO Program stop
+2020-12-01.22:33:04 Main INFO Program start
+2020-12-01.22:33:04 Main INFO Handle pID
+2020-12-01.22:33:04 Main INFO pID handled: 4392
+2020-12-01.22:33:04 Main INFO Handle Process
+2020-12-01.22:33:04 Main INFO Success Process handle
+2020-12-01.22:33:04 Main INFO Offset 4294967295 = 4294967295
+2020-12-01.22:33:04 Main INFO Program stop
+2020-12-01.23:38:11 Main INFO Program start
+2020-12-01.23:38:11 Main INFO Handle pID
+2020-12-01.23:38:11 Main INFO pID handled: 3560
+2020-12-01.23:38:11 Main INFO Handle Process
+2020-12-01.23:38:11 Main INFO Success Process handle
+2020-12-01.23:38:11 Main INFO Offset 4294967295 = 4294967295
+2020-12-01.23:38:11 Main INFO Program stop
